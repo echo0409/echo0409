@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! 💻 I’m currently doing some research about MultiModal Machine Learning.
+💻 I’m currently doing some research about MultiModal Machine Learning.
